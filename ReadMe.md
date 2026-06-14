@@ -44,12 +44,12 @@ Computer Science and Engineering undergraduate passionate about Software Develop
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-vinay29&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-vinay29&show_icons=true&theme=flag-india" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-vinay29&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-vinay29&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-vinay29&layout=compact&theme=flag-india" height="180em"/>
 </p>
 
 ---
@@ -63,6 +63,17 @@ Computer Science and Engineering undergraduate passionate about Software Develop
 ---
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Nikhil-vinay29/Nikhil-vinay29/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Nikhil-vinay29/Nikhil-vinay29/output/github-contribution-grid-snake.svg)
 
+## 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-vinay29&theme=flag-india)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-vinay29&theme=flag-india)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Nikhil-vinay29&theme=flag-india)
 Thanks for visiting my profile! Feel free to connect and collaborate. 🚀
