@@ -73,7 +73,4 @@ Computer Science and Engineering undergraduate passionate about Software Develop
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-vinay29&theme=flag-india)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Nikhil-vinay29&theme=flag-india)
 Thanks for visiting my profile! Feel free to connect and collaborate. 🚀
