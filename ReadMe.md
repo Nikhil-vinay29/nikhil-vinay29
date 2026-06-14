@@ -30,19 +30,6 @@ Computer Science and Engineering undergraduate passionate about Software Develop
 
 ---
 
-## 🚀 Featured Projects
-
-### 📧 Spam Email Detection
-Machine Learning project that classifies emails as Spam or Ham using Python, CountVectorizer, and Naive Bayes.
-
-### 🤖 Consistency AI
-AI-powered student productivity platform helping students overcome procrastination and build skills through consistent learning.
-
-### ⚛️ React Projects
-Collection of React.js projects covering Hooks, State Management, Components, and Frontend Development.
-
----
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
