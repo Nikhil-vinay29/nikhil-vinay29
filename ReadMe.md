@@ -1,18 +1,17 @@
-# 💫 About Me:
-Computer Science and Engineering undergraduate passionate about Software Development, Artificial Intelligence, and Machine Learning. Experienced in building academic and real-world projects using Python, and AI. Focused on problem-solving, data structures, algorithms, and continuous learning to create impactful technology solutions.
+# Hi 👋, I'm Nikhil Vinay
 
+### Computer Science and Engineering Undergraduate | Python Developer | AI & ML Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/morampudinikhilvinay/) 
+## 💫 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nikhil-vinay29&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nikhil-vinay29&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhil-vinay29&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Computer Science and Engineering undergraduate passionate about Software Development, Artificial Intelligence, and Machine Learning. Experienced in building academic and real-world projects using Python, React.js, and AI/ML technologies.
 
----
-[![](https://komarev.com/ghpvc/?username=Nikhil-vinay29&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 Coding Profiles
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nikhil_morampudi/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nikhilmorampudi1)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morampudinikhilvinay/)
