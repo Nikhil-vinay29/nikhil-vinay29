@@ -61,14 +61,6 @@ Computer Science and Engineering undergraduate passionate about Software Develop
 </p>
 
 ---
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhil-vinay29&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Nikhil-vinay29/Nikhil-vinay29/blob/output/github-contribution-grid-snake.svg)
