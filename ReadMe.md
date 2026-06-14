@@ -8,8 +8,9 @@
 
 Computer Science and Engineering undergraduate passionate about Software Development, Artificial Intelligence, and Machine Learning. Experienced in building academic and real-world projects using Python, React.js, and AI/ML technologies. Focused on problem-solving, Data Structures & Algorithms, and continuous learning to create impactful technology solutions.
 
-- 🌱 Currently learning **Data Structures & Algorithms, and Machine Learning**
-- 💻 Building projects using **Python, AI, and ML**
+- 🌱 Currently learning **Data Structures & Algorithms, React.js, and Machine Learning**
+- 💻 Building projects using **Python, React, AI, and ML**
+- 🚀 Working on **Spam Email Detection** and **Consistency AI**
 - 🎯 Goal: Become a Software Engineer and AI Developer
 - ⚡ Passionate about Technology, Filmmaking, and Storytelling
 
@@ -71,6 +72,7 @@ Collection of React.js projects covering Hooks, State Management, Components, an
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Nikhil_morampudi?theme=dark&font=Karma&ext=contest"/>
 </p>
+
 ---
 
 ## 👀 Profile Views
@@ -80,4 +82,8 @@ Collection of React.js projects covering Hooks, State Management, Components, an
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Nikhil-vinay29/Nikhil-vinay29/blob/output/github-contribution-grid-snake.svg)
+
 Thanks for visiting my profile! Feel free to connect and collaborate. 🚀
