@@ -1,10 +1,19 @@
 # Hi 👋, I'm Nikhil Vinay
 
-### Computer Science and Engineering Undergraduate | Python Developer | AI & ML Enthusiast
+### 🚀 Computer Science and Engineering Undergraduate | Python Developer | AI & ML Enthusiast
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 💫 About Me
 
-Computer Science and Engineering undergraduate passionate about Software Development, Artificial Intelligence, and Machine Learning. Experienced in building academic and real-world projects using Python, React.js, and AI/ML technologies.
+Computer Science and Engineering undergraduate passionate about Software Development, Artificial Intelligence, and Machine Learning. Experienced in building academic and real-world projects using Python, React.js, and AI/ML technologies. Focused on problem-solving, Data Structures & Algorithms, and continuous learning to create impactful technology solutions.
+
+- 🌱 Currently learning **Data Structures & Algorithms, and Machine Learning**
+- 💻 Building projects using **Python, AI, and ML**
+- 🎯 Goal: Become a Software Engineer and AI Developer
+- ⚡ Passionate about Technology, Filmmaking, and Storytelling
+
+---
 
 ## 🏆 Coding Profiles
 
@@ -12,6 +21,67 @@ Computer Science and Engineering undergraduate passionate about Software Develop
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nikhilmorampudi1)
 
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morampudinikhilvinay/)
+
+---
+
+## 🚀 Featured Projects
+
+### 📧 Spam Email Detection
+Machine Learning project that classifies emails as Spam or Ham using Python, CountVectorizer, and Naive Bayes.
+
+### 🤖 Consistency AI
+AI-powered student productivity platform helping students overcome procrastination and build skills through consistent learning.
+
+### ⚛️ React Projects
+Collection of React.js projects covering Hooks, State Management, Components, and Frontend Development.
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-vinay29&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-vinay29&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-vinay29&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 📈 LeetCode Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Nikhil_morampudi?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nikhil-vinay29&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+Thanks for visiting my profile! Feel free to connect and collaborate. 🚀
