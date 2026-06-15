@@ -45,9 +45,6 @@ Computer Science and Engineering undergraduate passionate about Software Develop
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-vinay29&show_icons=true&theme=flag-india" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-vinay29&theme=tokyonight" height="180em"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-vinay29&layout=compact&theme=flag-india" height="180em"/>
 </p>
