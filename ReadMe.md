@@ -39,16 +39,13 @@ Computer Science and Engineering undergraduate passionate about Software Develop
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
+--
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-vinay29&show_icons=true&theme=flag-india" height="180em"/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-vinay29&layout=compact&theme=flag-india" height="180em"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Nikhil-vinay29&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhil-vinay29&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📈 LeetCode Statistics
